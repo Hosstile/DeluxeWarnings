@@ -1,0 +1,8 @@
+name: Warnings
+main: us.Warnings.Warnings
+version: 1.0
+author: Hosstile
+database: false
+commands:
+   warns:
+   warn:
